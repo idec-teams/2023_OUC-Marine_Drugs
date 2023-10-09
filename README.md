@@ -4,7 +4,7 @@
 
 This is the wiki repository for iDEC 2023, Team: OUC-Marine Drugs.
 
-The wiki created from this repository is hosted at [idec-teams.github.io/2023_OUC-Marine_Drugs](https://idec-teams.github.io/2023_OUC-Marine_Drugs).
+The wiki created from this repository is hosted at [idec-teams.github.io/2023_OUC-Marine_Drugs](https://idec-team.github.io/.github.io-2023_OUC-Marine_Drugs-/).
 
 The default wiki layout is powered by [MkDocs](http://mkdocs.org) with the [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme.
 
